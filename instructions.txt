@@ -1,0 +1,11 @@
+** DISCLAIMER: This code is purely for educational purposes and is intended for ehtical use. Please, do your research to ensure the website you are scaping allows scraping. **
+
+// How to use web-scraper //
+
+/ Steps
+    1. Enter webpage URL you'd like to scrape into url const
+    2. Inspect the page to find the tag
+    3. Enter tag into axios function
+    4. Run the program
+
+** NOTE: To run this program please ensure you have all the necessary dependencies installed. You can see the necessary dependenciesin the "package.json" file. **
